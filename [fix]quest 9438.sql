@@ -1,0 +1,1 @@
+REPLACE INTO creature_involvedrelation VALUES (4949,9438);
