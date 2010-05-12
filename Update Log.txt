@@ -1,0 +1,64 @@
+=======================================================================================
+Revision: 007 | Date: 4/25/2010 | Compilation Author: FallenAngel
+---------------------------------------------------------------------------------------
+ 1. TrashMOB:34838, TrashMOB:34839, Akil'zon, Al'ar, Alzzin the Wildshaper loot fixes.
+
+ 2. RAZORFEN KRAUL:
+	Rare trash mob loot has been added (items and drop % are from WoW loot atlas).
+	Boss loot tables have been double checked and fixed where needed.
+
+ 3. SHADOWFANG KEEP:
+	Rare trash mob loot has been added and fixed (all items and drop % are from WoW loot atlas)
+	Boss loot tables have been double checked and fixed where needed.
+
+ 4. BLACKFATHOM DEEP:
+	Rare trash mob loot has been added and normal trash mob loot were corrected.
+	Boss loot tables have been double checked and fixed where needed.
+
+ 5. HALLS OF LIGHTNING (ULDUAR):
+	Fixed Ionar's loot table and completely double checked him. Should be working fine.
+
+ 6. WAILING CAVERNS ENTRANCE:
+	All loot tables were double checked and corrected and fixed where needed.
+
+ 7. WAILING CAVERNS:
+	All loot tables were double checked and corrected and fixed where needed.
+
+ 8. DEADMINES (Westfall):
+	Entire zone loot tables were corrected and fixed where needed.
+
+ 9. QUEST FIXES:
+	Tarren Mill: Wanted Baron Vardus has been moved to the right spot for a quest he's involed in.
+	Tarren Mill: Dangerous (Its a quest, duh...)
+	"Noth's Special Brew" quest has been added to Death Knight starting zone and is repeatable.
+	Miner Hackett was in the wrong spot. He's moved his correct spot now.
+ 
+10. NPC FIX: 
+	Few spirit healers were added around Hilsbrand. More will follow soon.
+=======================================================================================
+Revision: 008 | Date: 4/27/2010 | Compilation Author: FallenAngel
+---------------------------------------------------------------------------------------
+ 1. GNOMEREGAN (Easter Kingdoms, Instance):
+	Added missing rare trash drop loot and corrected trash loot tables where needed.
+	Added missing "security card key" to random mobs for instance's back room.
+
+ 2. UPDATE TO YTDB 545.
+
+ 3. A lot of minor fixes (with Hellscream fixes), mostly quest support.
+
+ 4. ZUL GURUB (Eastern Kingdoms, Instance):
+	Added rare trash mob and boss loots.
+
+ 5. Fixed a few recent errors in YTDB update.
+
+ 6. Moved and merged everything from Core SQL folder.
+
+ 7. Added Core SQL's updates for quest hints of a new plague.
+=======================================================================================
+-5-6-2010-
+
+1.all Hellscream fixes have been implented into main Db 
+
+2. too muchhas been going on in sd2 to give a accurate update  but way to check is to look thourght the scripts and see where the bosses % is   also  please if you notice any bugs or errors post them 
+
+3. a crap -load of quest fixes - a few acid updates-and much much more
